@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GitHubUserApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/brown_2</item>
+        <item name="colorOnPrimary">@color/brown_3</item>
+        <item name="colorPrimaryContainer">@color/brown_2</item>
+        <item name="colorOnPrimaryContainer">@color/brown_3</item>
+
+        <item name="colorSecondary">@color/brown_1</item>
+        <item name="colorOnSecondary">@color/brown_2</item>
+        <item name="colorSecondaryContainer">@color/brown_1</item>
+        <item name="colorOnSecondaryContainer">@color/brown_4</item>
+
+        <item name="iconTint">@color/white</item>
+    </style>
+</resources>

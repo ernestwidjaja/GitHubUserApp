@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Search User…</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers_count">%1$s Followers</string>
+    <string name="following_count">%1$s Following</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="detail_user">Detail User</string>
+    <string name="share_message">GitHub User\nName : %1$s\nUsername : %2$s\nTotal Followers : %3$s\nTotal Following : %4$s</string>
+</resources>
