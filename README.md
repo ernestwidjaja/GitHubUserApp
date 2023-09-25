@@ -9,7 +9,8 @@ This application is a submission for Dicoding fundamental android.
 5. Show User Favorite
 6. Add User to Favorite
 7. Delete User from Favorite
-8. Settings for Change Theme
+8. Share User
+9. Settings for Change Theme
 
 ## UI
 <img src="https://github.com/ernestwidjaja/GitHubUserApp/assets/47309223/b6a84c1f-7950-4d77-b98d-93e3c994a609" width="300"/>
