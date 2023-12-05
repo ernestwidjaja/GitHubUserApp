@@ -1,5 +1,6 @@
 # GitHub User Application
-This application is a submission for Dicoding fundamental android.
+This application is a submission for Dicoding Andrroid Fundamental.
+Using github API
 
 ## Features
 1. Show User
